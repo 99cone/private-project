@@ -4,7 +4,7 @@ import styled from "styled-components";
 export default function virtualKeyboard() {
   return (
     <>
-      <KeyboardWrap>안녕</KeyboardWrap>
+      <KeyboardWrap>안녕하세욘</KeyboardWrap>
     </>
   );
 }
