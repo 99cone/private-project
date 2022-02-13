@@ -6,7 +6,7 @@ function Router() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Keyboard />} />
+        <Route path="/keyboard" element={<Keyboard />} />
       </Routes>
     </BrowserRouter>
   );
